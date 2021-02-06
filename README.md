@@ -1,1 +1,1 @@
-# verf_code
+# generate a simple verification code
